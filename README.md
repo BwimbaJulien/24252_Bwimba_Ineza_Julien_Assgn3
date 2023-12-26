@@ -16,8 +16,3 @@ PUT /teachers/{id}: Update an existing teacher by ID. (Provide data in JSON form
 DELETE /teachers/{id}: Delete a teacher by ID.
 
 !!! The same can be applied for Courses, Semesters, and Academic Units.
-
-Usage:
-1. Clone the repository.
-2. Build and run the Spring application.
-3. Use Postman to interact with the API using the specified endpoints.
