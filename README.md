@@ -8,6 +8,7 @@ POST /students: Create a new student. (Provide data in JSON format)
 PUT /students/{id}: Update an existing student by ID. (Provide data in JSON format)
 DELETE /students/{id}: Delete a student by ID.
 
+
 GET /teacher: Retrieve all teachers.
 GET /teacher/{id}: Retrieve a specific teacher by ID.
 POST /teacher: Create a new teacher. (Provide data in JSON format)
